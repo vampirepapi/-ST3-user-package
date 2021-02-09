@@ -1,0 +1,9 @@
+{
+    "anaconda_tooltip_theme": "tooltip",
+    "anaconda_gutter_marks": true,
+    "anaconda_gutter_theme": "none",
+    "anaconda_linter_underlines": true,
+    "python_interpreter": "python3",
+    "anaconda_linting_behaviour": "save-only", // Don't Want to see these if you are writing
+    "anaconda_linting": false //disable permanently
+}

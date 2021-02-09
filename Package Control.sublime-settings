@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Dracula Color Scheme",
+		"EasyClangComplete",
+		"Flatron",
+		"Material Theme",
+		"Materialize",
+		"Package Control",
+		"SublimeREPL"
+	]
+}
