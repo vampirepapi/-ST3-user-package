@@ -12,5 +12,5 @@ Path of st-3 user folder :-
 
 >  C:\Users\vampirepapi\AppData\Roaming\Sublime Text 3\Packages\User
 
-    **Going Dark!**
+    Going Dark!
 
