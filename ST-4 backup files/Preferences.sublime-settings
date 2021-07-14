@@ -1,0 +1,16 @@
+
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "ayu-mirage.sublime-theme",
+	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
+	/*"material_theme_accent_blue": true,*/
+	/*"material_theme_accent_brba": true,*/
+	/*"material_theme_accent_scrollbars": true,*/
+	/*"material_theme_accent_titlebar": true,*/
+	/*"material_theme_bright_scrollbars": true,*/
+	/*"material_theme_compact_panel": true,*/
+	"auto_complete": true,
+}
