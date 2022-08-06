@@ -1,0 +1,15 @@
+// Documentation at https://www.sublimetext.com/docs/themes.html
+{
+	"variables":
+	{
+	},
+	"rules":
+	[
+		{
+			"class": "title_bar",
+			"settings": ["themed_title_bar"],
+			"fg": "color(white)",
+			"bg": "color(var(--background) blend(white 100%))"
+		},
+	]
+}

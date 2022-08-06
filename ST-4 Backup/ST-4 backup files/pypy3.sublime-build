@@ -1,0 +1,5 @@
+{
+"cmd": ["python", "${file}","<inputf.in>outputf.in"],
+"shell":true,
+"working_dir":"$file_path",
+}
